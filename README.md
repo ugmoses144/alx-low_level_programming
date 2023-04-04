@@ -1,1 +1,1 @@
-more on functions and nested loop
+0x06-pointers_arrays_strings projects
